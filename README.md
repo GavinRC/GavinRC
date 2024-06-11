@@ -21,6 +21,9 @@ gavincorkins@gmail.com
 - JavaScript
 - HTML / CSS
 
+## Professional Organizations
+- Programming student on the Grand Blanc High School Robotics Team
+  
 ## Certifications
 ### [**IT Specialist - Python**](https://www.credly.com/badges/5804909c-4b0b-47ae-9388-b7b8e25416b0)
 - "Earners of this badge demonstrate that they can recognize, write, and debug Python code that will logically solve a problem."
@@ -48,19 +51,3 @@ gavincorkins@gmail.com
    	<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavinrc&layout=compact"/>
    </a>
 </p>
-
-
-<!--
-**GavinRC/GavinRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
