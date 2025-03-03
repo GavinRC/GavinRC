@@ -10,7 +10,7 @@ gavincorkins@gmail.com
 
 ## Education
 ### Grand Blanc High School, Grand Blanc, MI
-- Currently enrolled as a sophmore
+- Currently enrolled as a junior
 - Set to officially graduate 2027
 
 ## Experience
