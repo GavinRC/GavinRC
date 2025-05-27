@@ -41,6 +41,14 @@ gavincorkins@gmail.com
    </a>
 </p>
 
+### [**IT Specialist - JavaScript**](https://www.credly.com/badges/81940dcf-e040-4486-a39c-80f5ebe7776b)
+- "Earners of this badge demonstrate that they can recognize, write, and debug JavaScript code that will logically solve a problem."
+<p align='left'>
+   <a href="https://www.credly.com/badges/b6a8109c-bc1f-4f86-ac71-6299e6e1ebc3">
+   	<img src="https://images.credly.com/size/340x340/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png"/>
+   </a>
+</p>
+
 ## Github Statistics
 
 <p align='center'>
