@@ -12,7 +12,9 @@ gavincorkins@gmail.com
 ### Grand Blanc High School, Grand Blanc, MI
 - Currently enrolled as a junior
 - Set to officially graduate 2027
-
+### Grand Blanc Early College Program, Grand Blanc, MI
+- A "dual enrollment" program between Grand Blanc High School and Univeristy of Michigan - Flint
+- Extends official legal graduation by one year
 ## Experience
 ### Fluent in
 - Java
